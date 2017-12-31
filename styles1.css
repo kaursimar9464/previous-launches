@@ -28,20 +28,15 @@
     font-size:30px;
     text-align: center;
     
-    margin-left: 350px;
     LINE-HEIGHT:40px;
     overflow: scroll;
     position:relative;
     display: inline-block;
-    transform: translate(-50%);
+    
     width:49%;
     
 }
-.image
-{
-    left:100px;
-    margin-left: 200px;
-}
+
 .background1
 {
     background-color: lightblue;
@@ -61,7 +56,7 @@
     overflow: scroll;
     position:absolute;
     display: inline-block;
-    transform: translate(-50%);
+    
     width:49%;
 }
 .heading1
